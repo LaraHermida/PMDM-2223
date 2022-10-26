@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Larita/AndroidStudioProjects/PMDM-2223/app/src/main/res/layout/activity_clase1.xml" value="0.1796875" />
+        <entry key="..\:/Users/Larita/AndroidStudioProjects/PMDM-2223/app/src/main/res/layout/activity_clase2.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/Larita/AndroidStudioProjects/PMDM-2223/app/src/main/res/layout/activity_datos.xml" value="0.1" />
+        <entry key="..\:/Users/Larita/AndroidStudioProjects/PMDM-2223/app/src/main/res/layout/activity_final.xml" value="0.1" />
+        <entry key="..\:/Users/Larita/AndroidStudioProjects/PMDM-2223/app/src/main/res/layout/activity_inicio.xml" value="0.22" />
+        <entry key="..\:/Users/Larita/AndroidStudioProjects/PMDM-2223/app/src/main/res/layout/activity_inicio2.xml" value="0.10914855072463768" />
+        <entry key="..\:/Users/Larita/AndroidStudioProjects/PMDM-2223/app/src/main/res/layout/activity_pag_inicio.xml" value="0.10914855072463768" />
+        <entry key="..\:/Users/Larita/AndroidStudioProjects/PMDM-2223/app/src/main/res/layout/activity_resultado.xml" value="0.1" />
+        <entry key="..\:/Users/Larita/AndroidStudioProjects/PMDM-2223/app/src/main/res/layout/activity_resultado_datos.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

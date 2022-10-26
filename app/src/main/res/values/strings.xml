@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">PMDM-2223</string>
+
+    <string-array name="ciudades_array">
+        <item>Madrid</item>
+        <item>Santander</item>
+        <item>Santiago</item>
+    </string-array>
 </resources>
